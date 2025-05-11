@@ -5,4 +5,4 @@ function InputObject(){
     </div>
 };
 
-export default InputObject;
+export default InputObject
