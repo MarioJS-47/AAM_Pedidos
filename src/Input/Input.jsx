@@ -1,7 +1,7 @@
 function InputObject(){
     return <div>
         <label></label>
-        <input>
+        <input></input>
     </div>
 }
 
