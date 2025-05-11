@@ -1,6 +1,7 @@
 function InputObject(){
     return <div>
-        Dato
+        <label></label>
+        <input>
     </div>
 };
 
