@@ -3,6 +3,6 @@ function InputObject(){
         <label></label>
         <input>
     </div>
-};
+}
 
 export default InputObject
